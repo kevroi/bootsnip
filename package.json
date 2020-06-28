@@ -4,6 +4,11 @@
     "description": "Bootstrap snippet buddy",
     "version": "1.1.0",
     "publisher": "kevroi",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/kevroi/bootsnip"
+    },
+    "icon": "icon.jpg",
     "engines": {
         "vscode": "^1.46.0"
     },
