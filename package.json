@@ -2,7 +2,7 @@
     "name": "bootsnip",
     "displayName": "bootsnip",
     "description": "Bootstrap snippet buddy",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "kevroi",
     "engines": {
         "vscode": "^1.46.0"
@@ -23,6 +23,26 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/form-snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/form-snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/form-snippets.json"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/form-snippets.json"
             }
         ]
     }
