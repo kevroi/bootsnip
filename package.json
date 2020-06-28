@@ -43,6 +43,22 @@
             {
                 "language": "django-html",
                 "path": "./snippets/form-snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/components-snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/components-snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/components-snippets.json"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/components-snippets.json"
             }
         ]
     }

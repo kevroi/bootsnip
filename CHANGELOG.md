@@ -4,6 +4,9 @@ All notable changes to the "bootsnip" extension will be documented in this file.
 
 
 
+## [1.2.0]
+- Added components snippets for navbar, cards and dropdown button
+
 ## [1.1.0]
 - Added bootstrap 5 starter template and form snippets
 

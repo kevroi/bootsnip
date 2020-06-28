@@ -1,6 +1,6 @@
 # bootsnip README
 
-This is the README for your extension "bootsnip". After writing up a brief description, we recommend including the following sections.
+Bootsnip is a Visual Studio Code extension designed to help beginners to web development. By using short prefixes, you can save a lot of time designing your first websites. Bootsnip helps you write dozens of lines ocde with just a few characters!
 
 ## Features
 
@@ -37,15 +37,15 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
+Initial release
 
 ### 1.0.1
 
-Fixed issue #.
+
 
 ### 1.1.0
 
-Added features X, Y, and Z.
+Added Bootstrap 5 support, and a bunch of snippets for form design!
 
 -----------------------------------------------------------------------------------------------------------
 
