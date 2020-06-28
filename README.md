@@ -1,6 +1,6 @@
 # bootsnip README
 
-Bootsnip is a Visual Studio Code extension designed to help beginners to web development. By using short prefixes, you can save a lot of time designing your first websites. Bootsnip helps you write dozens of lines ocde with just a few characters!
+Bootsnip is a [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=kevroi.bootsnip) designed to help beginners to web development. By using short prefixes, you can save a lot of time designing your first websites. Bootsnip helps you write dozens of lines ocde with just a few characters!
 
 ## Features
 
