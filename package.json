@@ -1,0 +1,29 @@
+{
+    "name": "bootsnip",
+    "displayName": "bootsnip",
+    "description": "Bootstrap snippet buddy",
+    "version": "1.0.0",
+    "publisher": "kevroi",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
