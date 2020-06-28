@@ -3,7 +3,7 @@
         "prefix": "!bs4",
         "body": [
             "<!DOCTYPE html>",
-            "<html lang=\"en\">",
+            "<html>",
             "<head>",
             "<meta charset=\"UTF-8\">",
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
@@ -26,5 +26,31 @@
             "</html>"
         ],
         "description": "Creates starter template with bootstrap & fontawesome"
+    },
+
+    "Bootstrap 4 CDN": {
+        "prefix": "!bs4cdn",
+        "body": [
+            "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css\">"
+        ],
+        "description": "Creates the link to just the bootstrap CDN"
+    },
+
+    "Fontawesome 5 CDN": {
+        "prefix": "!facdn",
+        "body": [
+            "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css\">"
+        ],
+        "description": "Creates the link to just the fontawesome CDN"
+    },
+
+    "Javascript CDN": {
+        "prefix": "!jscdn",
+        "body": [
+            "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js\"></script>",
+            "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js\"></script>",
+            "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js\"></script>"
+        ],
+        "description": "Creates the link to just the fontawesome CDN"
     }
 }

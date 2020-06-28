@@ -2,7 +2,7 @@
     "name": "bootsnip",
     "displayName": "bootsnip",
     "description": "Bootstrap snippet buddy",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "kevroi",
     "engines": {
         "vscode": "^1.46.0"
